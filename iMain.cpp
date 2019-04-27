@@ -339,7 +339,7 @@ void playgame()
     }
  }
 
- //collision();
+ //collision()rz;
  collisionAlternative();
  //playerCollision();
  playerCollisionAlternative();
